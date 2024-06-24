@@ -1,0 +1,2 @@
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\publish\012.pdb
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\publish\012.exe

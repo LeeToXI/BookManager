@@ -1,0 +1,7 @@
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\012.pdb
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\comerr64.dll
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\gssapi64.dll
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\k5sprt64.dll
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\krb5_64.dll
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\krbcc64.dll
+D:\01l\work\cshaap\work1\012\bin\Release\net8.0-windows\win-x64\app.publish\012.exe

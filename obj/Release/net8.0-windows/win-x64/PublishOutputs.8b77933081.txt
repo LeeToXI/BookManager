@@ -1,0 +1,7 @@
+D:\01l\Desktop\012.pdb
+D:\01l\Desktop\comerr64.dll
+D:\01l\Desktop\gssapi64.dll
+D:\01l\Desktop\k5sprt64.dll
+D:\01l\Desktop\krb5_64.dll
+D:\01l\Desktop\krbcc64.dll
+D:\01l\Desktop\012.exe
